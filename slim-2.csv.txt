@@ -66,6 +66,7 @@ Dominican Republic,DO,214
 Ecuador,EC,218
 Egypt,EG,818
 El Salvador,SV,222
+England,ENG,826
 Equatorial Guinea,GQ,226
 Eritrea,ER,232
 Estonia,EE,233
