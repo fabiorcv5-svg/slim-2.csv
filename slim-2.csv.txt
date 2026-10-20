@@ -192,7 +192,7 @@ Saint Martin (French part),MF,663
 Saint Pierre and Miquelon,PM,666
 Saint Vincent and the Grenadines,VC,670
 Samoa,WS,882
-Scotland,GB,826
+Scotland,SCO,826
 San Marino,SM,674
 Sao Tome and Principe,ST,678
 Saudi Arabia,SA,682
